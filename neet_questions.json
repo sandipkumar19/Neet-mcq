@@ -1,0 +1,400 @@
+{
+  "categorized_questions": {
+    "Biology": [
+      {
+        "id": 1,
+        "question": "What is the powerhouse of the cell?",
+        "options": [
+          "Nucleus",
+          "Mitochondria",
+          "Ribosome",
+          "Endoplasmic reticulum"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Mitochondria are called the powerhouse of the cell because they produce ATP through cellular respiration.",
+        "category": "Biology"
+      },
+      {
+        "id": 2,
+        "question": "Which process converts light energy into chemical energy in plants?",
+        "options": [
+          "Respiration",
+          "Photosynthesis",
+          "Transpiration",
+          "Fermentation"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Photosynthesis is the process where plants convert light energy (from sunlight) into chemical energy (glucose).",
+        "category": "Biology"
+      },
+      {
+        "id": 3,
+        "question": "What is the basic unit of heredity?",
+        "options": [
+          "Chromosome",
+          "DNA",
+          "Gene",
+          "Allele"
+        ],
+        "correctAnswer": 2,
+        "explanation": "A gene is the basic unit of heredity that carries information from parents to offspring.",
+        "category": "Biology"
+      },
+      {
+        "id": 4,
+        "question": "Which blood group is considered the universal donor?",
+        "options": [
+          "A",
+          "B",
+          "AB",
+          "O"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Blood group O (especially O-negative) is the universal donor because it lacks A and B antigens that could cause immune reactions.",
+        "category": "Biology"
+      },
+      {
+        "id": 5,
+        "question": "What is the study of plants called?",
+        "options": [
+          "Zoology",
+          "Botany",
+          "Ecology",
+          "Anatomy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Botany is the scientific study of plants, including their structure, growth, reproduction, and evolution.",
+        "category": "Biology"
+      },
+      {
+        "id": 6,
+        "question": "Which organelle is responsible for protein synthesis?",
+        "options": [
+          "Golgi apparatus",
+          "Lysosomes",
+          "Ribosomes",
+          "Vacuoles"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ribosomes are the cellular organelles responsible for protein synthesis by translating mRNA into proteins.",
+        "category": "Biology"
+      },
+      {
+        "id": 7,
+        "question": "What is the normal human body temperature?",
+        "options": [
+          "36.5°C",
+          "37°C",
+          "38°C",
+          "39°C"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The normal human body temperature is approximately 37°C (98.6°F), regulated by the hypothalamus.",
+        "category": "Biology"
+      },
+      {
+        "id": 8,
+        "question": "Which hormone regulates blood sugar levels?",
+        "options": [
+          "Thyroxine",
+          "Insulin",
+          "Adrenaline",
+          "Growth hormone"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Insulin, produced by pancreatic beta cells, regulates blood glucose levels by facilitating cellular glucose uptake.",
+        "category": "Biology"
+      },
+      {
+        "id": 9,
+        "question": "What is the largest organ in the human body?",
+        "options": [
+          "Liver",
+          "Lungs",
+          "Skin",
+          "Brain"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The skin is the largest organ in the human body, covering the entire external surface and performing multiple functions.",
+        "category": "Biology"
+      },
+      {
+        "id": 10,
+        "question": "Which gas is primarily responsible for the greenhouse effect?",
+        "options": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon dioxide",
+          "Hydrogen"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Carbon dioxide is the primary greenhouse gas responsible for trapping heat in Earth's atmosphere.",
+        "category": "Biology"
+      }
+    ],
+    "Chemistry": [
+      {
+        "id": 101,
+        "question": "What is the atomic number of carbon?",
+        "options": [
+          "4",
+          "6",
+          "8",
+          "12"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Carbon has atomic number 6, meaning it has 6 protons in its nucleus.",
+        "category": "Chemistry"
+      },
+      {
+        "id": 102,
+        "question": "Which gas is produced when zinc reacts with hydrochloric acid?",
+        "options": [
+          "Oxygen",
+          "Hydrogen",
+          "Carbon dioxide",
+          "Nitrogen"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Zn + 2HCl → ZnCl₂ + H₂. Hydrogen gas is produced when zinc reacts with hydrochloric acid.",
+        "category": "Chemistry"
+      },
+      {
+        "id": 103,
+        "question": "What is the pH of a neutral solution?",
+        "options": [
+          "0",
+          "7",
+          "14",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A neutral solution has a pH of 7, where [H+] = [OH-] = 10⁻⁷ mol/L at 25°C.",
+        "category": "Chemistry"
+      },
+      {
+        "id": 104,
+        "question": "Which element has the highest electronegativity?",
+        "options": [
+          "Oxygen",
+          "Chlorine",
+          "Fluorine",
+          "Nitrogen"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Fluorine has the highest electronegativity value (3.98 on the Pauling scale) of all elements.",
+        "category": "Chemistry"
+      },
+      {
+        "id": 105,
+        "question": "What is the molecular formula of glucose?",
+        "options": [
+          "C₅H₁₀O₅",
+          "C₆H₁₂O₆",
+          "C₇H₁₄O₇",
+          "C₈H₁₆O₈"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Glucose has the molecular formula C₆H₁₂O₆, a simple sugar and primary energy source for cells.",
+        "category": "Chemistry"
+      },
+      {
+        "id": 106,
+        "question": "What is the name of the process where a liquid changes to gas?",
+        "options": [
+          "Condensation",
+          "Evaporation",
+          "Sublimation",
+          "Deposition"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Evaporation is the process where a liquid is converted into a gas state, typically by heating.",
+        "category": "Chemistry"
+      },
+      {
+        "id": 107,
+        "question": "Which is the most abundant element in the Earth's atmosphere?",
+        "options": [
+          "Oxygen",
+          "Nitrogen",
+          "Argon",
+          "Carbon dioxide"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Nitrogen (N₂) comprises about 78% of Earth's atmosphere, making it the most abundant element.",
+        "category": "Chemistry"
+      },
+      {
+        "id": 108,
+        "question": "What is the atomic mass of oxygen?",
+        "options": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Oxygen has an atomic mass of approximately 16 u (atomic mass units).",
+        "category": "Chemistry"
+      },
+      {
+        "id": 109,
+        "question": "What type of bond exists in sodium chloride (NaCl)?",
+        "options": [
+          "Covalent bond",
+          "Ionic bond",
+          "Metallic bond",
+          "Hydrogen bond"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sodium chloride contains an ionic bond formed between Na+ and Cl- ions due to electron transfer.",
+        "category": "Chemistry"
+      },
+      {
+        "id": 110,
+        "question": "What is the valency of oxygen?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Oxygen has a valency of 2, as it needs 2 electrons to complete its octet.",
+        "category": "Chemistry"
+      }
+    ],
+    "Physics": [
+      {
+        "id": 201,
+        "question": "What is the SI unit of force?",
+        "options": [
+          "Dyne",
+          "Newton",
+          "Kilogram",
+          "Joule"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Newton (N) is the SI unit of force, where 1 N = 1 kg⋅m/s².",
+        "category": "Physics"
+      },
+      {
+        "id": 202,
+        "question": "Which scientist discovered the law of universal gravitation?",
+        "options": [
+          "Albert Einstein",
+          "Isaac Newton",
+          "Galileo Galilei",
+          "Stephen Hawking"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Isaac Newton discovered the law of universal gravitation in 1687.",
+        "category": "Physics"
+      },
+      {
+        "id": 203,
+        "question": "What is the speed of light in vacuum?",
+        "options": [
+          "3 × 10⁸ m/s",
+          "3 × 10⁶ m/s",
+          "3 × 10¹⁰ m/s",
+          "3 × 10⁵ m/s"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The speed of light (c) in vacuum is approximately 3 × 10⁸ m/s or 299,792,458 m/s.",
+        "category": "Physics"
+      },
+      {
+        "id": 204,
+        "question": "What is the SI unit of energy?",
+        "options": [
+          "Erg",
+          "Calorie",
+          "Joule",
+          "Watt"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Joule (J) is the SI unit of energy and work, where 1 J = 1 kg⋅m²/s².",
+        "category": "Physics"
+      },
+      {
+        "id": 205,
+        "question": "What does Newton's second law of motion state?",
+        "options": [
+          "For every action, there is an equal and opposite reaction",
+          "Force equals mass times acceleration",
+          "An object in motion stays in motion",
+          "Acceleration is inversely proportional to force"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Newton's second law states F = ma, meaning force equals mass multiplied by acceleration.",
+        "category": "Physics"
+      },
+      {
+        "id": 206,
+        "question": "What is the SI unit of pressure?",
+        "options": [
+          "Bar",
+          "Atm",
+          "Pascal",
+          "Torr"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Pascal (Pa) is the SI unit of pressure, where 1 Pa = 1 N/m².",
+        "category": "Physics"
+      },
+      {
+        "id": 207,
+        "question": "What is the SI unit of power?",
+        "options": [
+          "Joule",
+          "Watt",
+          "Newton",
+          "Hertz"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Watt (W) is the SI unit of power, where 1 W = 1 J/s.",
+        "category": "Physics"
+      },
+      {
+        "id": 208,
+        "question": "What is acceleration due to gravity on Earth?",
+        "options": [
+          "8.8 m/s²",
+          "9.8 m/s²",
+          "10.8 m/s²",
+          "11.8 m/s²"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The acceleration due to gravity (g) on Earth is approximately 9.8 m/s².",
+        "category": "Physics"
+      },
+      {
+        "id": 209,
+        "question": "What is the SI unit of frequency?",
+        "options": [
+          "Second",
+          "Hertz",
+          "Radian",
+          "Cycle"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hertz (Hz) is the SI unit of frequency, representing cycles per second.",
+        "category": "Physics"
+      },
+      {
+        "id": 210,
+        "question": "What does the principle of conservation of energy state?",
+        "options": [
+          "Energy can be created but not destroyed",
+          "Energy cannot be created or destroyed, only transformed",
+          "Energy always decreases in a system",
+          "Energy is only lost as heat"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The principle of conservation of energy states that energy cannot be created or destroyed, only transformed from one form to another.",
+        "category": "Physics"
+      }
+    ]
+  }
+}
