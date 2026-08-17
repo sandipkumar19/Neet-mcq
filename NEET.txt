@@ -1,0 +1,133 @@
+question|option_a|option_b|option_c|option_d|correct_answer|solution
+What is the powerhouse of the cell?|Nucleus|Mitochondria|Ribosome|Endoplasmic reticulum|B|Mitochondria are called the powerhouse of the cell because they produce ATP through cellular respiration.
+Which process converts light energy into chemical energy in plants?|Respiration|Photosynthesis|Transpiration|Fermentation|B|Photosynthesis is the process where plants convert light energy (from sunlight) into chemical energy (glucose).
+What is the basic unit of heredity?|Chromosome|DNA|Gene|Allele|C|A gene is the basic unit of heredity that carries information from parents to offspring.
+Which blood group is considered the universal donor?|A|B|AB|O|D|Blood group O (especially O-negative) is the universal donor because it lacks A and B antigens.
+What is the study of plants called?|Zoology|Botany|Ecology|Anatomy|B|Botany is the scientific study of plants, including their structure, growth, reproduction, and evolution.
+Which organelle is responsible for protein synthesis?|Golgi apparatus|Lysosomes|Ribosomes|Vacuoles|C|Ribosomes are the cellular organelles responsible for protein synthesis by translating mRNA into proteins.
+What is the normal human body temperature?|36.5°C|37°C|38°C|39°C|B|The normal human body temperature is approximately 37°C (98.6°F), regulated by the hypothalamus.
+Which hormone regulates blood sugar levels?|Thyroxine|Insulin|Adrenaline|Growth hormone|B|Insulin, produced by pancreatic beta cells, regulates blood glucose levels.
+What is the largest organ in the human body?|Liver|Lungs|Skin|Brain|C|The skin is the largest organ in the human body, covering the entire external surface.
+Which gas is primarily responsible for the greenhouse effect?|Oxygen|Nitrogen|Carbon dioxide|Hydrogen|C|Carbon dioxide is the primary greenhouse gas responsible for trapping heat in Earth's atmosphere.
+What is the functional unit of the kidney?|Glomerulus|Nephron|Bowman's capsule|Loop of Henle|B|The nephron is the functional unit of the kidney, responsible for filtration, reabsorption, and excretion.
+Which vitamin is synthesized in the skin upon exposure to sunlight?|Vitamin A|Vitamin B|Vitamin C|Vitamin D|D|Vitamin D is synthesized in the skin when exposed to UVB radiation from sunlight.
+What is the process of programmed cell death called?|Necrosis|Apoptosis|Mitosis|Meiosis|B|Apoptosis is programmed cell death, a normal physiological process essential for development.
+Which part of the brain controls balance and coordination?|Cerebrum|Cerebellum|Medulla oblongata|Hypothalamus|B|The cerebellum is responsible for balance, coordination, and fine motor control.
+What is the hardest substance in the human body?|Bone|Cartilage|Tooth enamel|Nail|C|Tooth enamel is the hardest substance in the human body, composed primarily of hydroxyapatite crystals.
+Which type of muscle is found in the heart?|Skeletal muscle|Smooth muscle|Cardiac muscle|Voluntary muscle|C|Cardiac muscle is the specialized muscle tissue found only in the heart.
+What is the scientific name for humans?|Homo erectus|Homo sapiens|Homo habilis|Homo neanderthalensis|B|Homo sapiens is the scientific name for modern humans, meaning 'wise man' in Latin.
+Which component of blood is responsible for clotting?|Red blood cells|White blood cells|Platelets|Plasma|C|Platelets (thrombocytes) are responsible for blood clotting and hemostasis.
+What is the term for organisms that make their own food?|Heterotrophs|Autotrophs|Decomposers|Parasites|B|Autotrophs are organisms that can produce their own food using light energy (photosynthesis).
+Which acid is found in the stomach?|Sulfuric acid|Nitric acid|Hydrochloric acid|Acetic acid|C|Hydrochloric acid (HCl) is produced by parietal cells in the stomach for digestion.
+What is the longest bone in the human body?|Tibia|Femur|Humerus|Radius|B|The femur (thighbone) is the longest and strongest bone in the human body.
+Which enzyme breaks down starch into sugars?|Pepsin|Amylase|Lipase|Trypsin|B|Amylase is the enzyme that breaks down starch into maltose and other simple sugars.
+What is the primary function of hemoglobin?|Blood clotting|Fighting infections|Oxygen transport|Nutrient transport|C|Hemoglobin is the iron-containing protein in red blood cells that transports oxygen.
+Which organelle contains the cell's genetic material?|Cytoplasm|Nucleus|Mitochondria|Endoplasmic reticulum|B|The nucleus contains the cell's genetic material (DNA) and controls cellular activities.
+What is the process of water loss from plant leaves called?|Photosynthesis|Respiration|Transpiration|Translation|C|Transpiration is the process of water loss from plant leaves through stomata.
+Which type of joint allows the most movement?|Fixed joint|Slightly movable joint|Ball and socket joint|Hinge joint|C|Ball and socket joints (like shoulder and hip) allow the greatest range of movement.
+What is the smallest unit of life?|Atom|Molecule|Cell|Tissue|C|The cell is the smallest unit of life, exhibiting all characteristics of living organisms.
+Which gland is known as the 'master gland'?|Thyroid gland|Adrenal gland|Pituitary gland|Pancreas|C|The pituitary gland is called the master gland because it controls other endocrine glands.
+What is the basic unit of the nervous system?|Synapse|Neuron|Dendrite|Axon|B|The neuron (nerve cell) is the basic structural and functional unit of the nervous system.
+Which process occurs in the alveoli of the lungs?|Digestion|Gas exchange|Blood production|Hormone secretion|B|Gas exchange occurs in the alveoli, where oxygen enters the blood and carbon dioxide is removed.
+What is the gestation period of humans?|8 months|9 months|10 months|11 months|B|The human gestation period is approximately 9 months (38-40 weeks) from conception to birth.
+Which part of the eye controls the amount of light entering?|Cornea|Lens|Iris|Retina|C|The iris controls the amount of light entering the eye by adjusting the size of the pupil.
+What is the main component of plant cell walls?|Lignin|Cellulose|Pectin|Chitin|B|Cellulose is the main structural component of plant cell walls.
+Which chamber of the heart pumps blood to the lungs?|Left atrium|Right atrium|Left ventricle|Right ventricle|D|The right ventricle pumps deoxygenated blood to the lungs through the pulmonary artery.
+What is the study of heredity called?|Ecology|Genetics|Anatomy|Physiology|B|Genetics is the branch of biology that studies heredity and variation in living organisms.
+Which molecule stores energy in cells?|DNA|RNA|ATP|Protein|C|ATP (Adenosine Triphosphate) is the primary energy storage molecule in cells.
+What is the fluid inside the cell called?|Cytoplasm|Nucleoplasm|Protoplasm|Cell sap|A|Cytoplasm is the gel-like substance inside the cell that contains organelles.
+Which system removes waste products from the blood?|Respiratory system|Digestive system|Excretory system|Circulatory system|C|The excretory system, primarily through kidneys, removes waste products from the blood.
+What is the chromosome number in human gametes?|23|46|22|44|A|Human gametes (sex cells) have 23 chromosomes, half the number found in somatic cells.
+Which enzyme is found in saliva?|Pepsin|Ptyalin|Trypsin|Chymotrypsin|B|Ptyalin (salivary amylase) is the enzyme found in saliva that begins starch digestion.
+What is the outermost layer of the skin called?|Dermis|Epidermis|Hypodermis|Subcutaneous tissue|B|The epidermis is the outermost layer of the skin, providing protection.
+Which blood vessel carries blood away from the heart?|Vein|Artery|Capillary|Venule|B|Arteries carry blood away from the heart to various parts of the body.
+What is the male reproductive part of a flower called?|Pistil|Stamen|Sepal|Petal|B|The stamen is the male reproductive part of a flower.
+Which vitamin deficiency causes scurvy?|Vitamin A|Vitamin B|Vitamin C|Vitamin D|C|Scurvy is caused by vitamin C (ascorbic acid) deficiency.
+What is the process of cell division that produces gametes?|Mitosis|Meiosis|Binary fission|Budding|B|Meiosis is the process of cell division that produces gametes.
+Which structure connects muscles to bones?|Ligaments|Tendons|Cartilage|Fascia|B|Tendons are fibrous connective tissues that connect muscles to bones.
+What is the liquid part of blood called?|Serum|Plasma|Lymph|Hemoglobin|B|Plasma is the liquid component of blood.
+Which organelle is responsible for cellular respiration?|Chloroplast|Mitochondria|Nucleus|Ribosome|B|Mitochondria are the organelles responsible for cellular respiration.
+What is the scientific study of insects called?|Ornithology|Herpetology|Entomology|Ichthyology|C|Entomology is the scientific study of insects.
+Which part of the digestive system absorbs most nutrients?|Stomach|Large intestine|Small intestine|Esophagus|C|The small intestine is where most nutrient absorption occurs.
+What is the green pigment in plants called?|Carotene|Chlorophyll|Anthocyanin|Xanthophyll|B|Chlorophyll is the green pigment in plants that captures light energy.
+Which hormone is responsible for the fight-or-flight response?|Insulin|Cortisol|Adrenaline|Thyroxine|C|Adrenaline (epinephrine) is the hormone responsible for the fight-or-flight response.
+What is the functional unit of the lung?|Bronchus|Bronchiole|Alveolus|Trachea|C|The alveolus is the functional unit of the lung where gas exchange occurs.
+Which type of blood cell fights infections?|Red blood cells|White blood cells|Platelets|Plasma cells|B|White blood cells (leukocytes) are part of the immune system.
+What is the process by which plants lose water through their leaves?|Evaporation|Transpiration|Condensation|Sublimation|B|Transpiration is the process by which plants lose water vapor through their stomata.
+Which structure in the ear is responsible for hearing?|Semicircular canals|Cochlea|Eustachian tube|Vestibule|B|The cochlea is the spiral-shaped structure in the inner ear responsible for hearing.
+What is the largest artery in the human body?|Pulmonary artery|Carotid artery|Aorta|Coronary artery|C|The aorta is the largest artery in the human body.
+Which molecule carries genetic information from DNA to ribosomes?|tRNA|mRNA|rRNA|DNA polymerase|B|mRNA (messenger RNA) carries genetic information from DNA to ribosomes.
+What is the study of fungi called?|Mycology|Virology|Bacteriology|Parasitology|A|Mycology is the branch of biology that studies fungi.
+Which part of the brain controls breathing?|Cerebrum|Cerebellum|Medulla oblongata|Hypothalamus|C|The medulla oblongata controls vital functions including breathing.
+What is the term for an organism's complete set of DNA?|Genome|Chromosome|Gene|Allele|A|The genome is an organism's complete set of DNA.
+Which structure protects the lung?|Diaphragm|Pleura|Pericardium|Peritoneum|B|The pleura is a double-layered membrane that surrounds and protects the lungs.
+What is the main function of the large intestine?|Protein digestion|Fat absorption|Water absorption|Vitamin synthesis|C|The large intestine's main function is water absorption.
+Which gas do plants release during photosynthesis?|Carbon dioxide|Oxygen|Nitrogen|Carbon monoxide|B|During photosynthesis, plants release oxygen.
+What is the smallest blood vessel called?|Arteriole|Venule|Capillary|Lymphatic vessel|C|Capillaries are the smallest blood vessels.
+Which organ produces bile?|Pancreas|Liver|Gallbladder|Stomach|B|The liver produces bile.
+What is the basic unit of classification in taxonomy?|Genus|Family|Species|Order|C|Species is the basic unit of classification in taxonomy.
+Which structure in plants is responsible for water and mineral transport?|Phloem|Xylem|Cambium|Epidermis|B|Xylem is the vascular tissue responsible for transporting water and minerals.
+What is the normal pH of human blood?|6.8-7.0|7.0-7.2|7.35-7.45|7.5-7.7|C|Normal human blood pH is tightly regulated between 7.35-7.45.
+Which type of immunity is acquired through vaccination?|Natural active immunity|Artificial active immunity|Natural passive immunity|Artificial passive immunity|B|Vaccination provides artificial active immunity.
+What is the term for animals that are active during the night?|Diurnal|Nocturnal|Crepuscular|Cathemeral|B|Nocturnal animals are active during the night.
+Which structure connects the two cerebral hemispheres?|Corpus callosum|Brain stem|Cerebellum|Thalamus|A|The corpus callosum connects the left and right cerebral hemispheres.
+What is the main component of natural gas produced in anaerobic digestion?|Carbon dioxide|Methane|Hydrogen sulfide|Ammonia|B|Methane is the main component of biogas.
+Which hormone regulates calcium levels in blood?|Insulin|Calcitonin|Thyroxine|Cortisol|B|Calcitonin helps regulate blood calcium levels.
+What is the study of the structure of organisms called?|Physiology|Anatomy|Morphology|Histology|B|Anatomy is the study of the structure of organisms.
+Which process converts atmospheric nitrogen into ammonia?|Nitrification|Denitrification|Nitrogen fixation|Ammonification|C|Nitrogen fixation converts atmospheric nitrogen into ammonia.
+What is the membrane surrounding the heart called?|Pleura|Pericardium|Peritoneum|Myocardium|B|The pericardium is the membrane surrounding the heart.
+Which type of muscle contraction occurs without change in muscle length?|Isotonic contraction|Isometric contraction|Eccentric contraction|Concentric contraction|B|Isometric contraction occurs without change in muscle length.
+What is the primary function of the lymphatic system?|Hormone transport|Immunity and fluid balance|Nutrient absorption|Waste elimination|B|The lymphatic system's primary functions are immunity and fluid balance.
+Which organelle is known as the 'suicide bag' of the cell?|Mitochondria|Golgi apparatus|Lysosome|Endoplasmic reticulum|C|Lysosomes are called 'suicide bags' because they contain digestive enzymes.
+What is the total number of bones in an adult human body?|206|208|210|212|A|An adult human skeleton typically contains 206 bones.
+What is the atomic number of carbon?|4|6|8|12|B|Carbon has atomic number 6.
+Which gas is produced when zinc reacts with hydrochloric acid?|Oxygen|Hydrogen|Carbon dioxide|Nitrogen|B|Hydrogen gas is produced when zinc reacts with hydrochloric acid.
+Avogadro's number is:|6.022 × 10²²|6.022 × 10²³|6.022 × 10²⁴|6.022 × 10²¹|B|Avogadro's number is 6.022 × 10²³.
+Molar mass is the mass of:|1 atom|1 molecule|1 mole of substance|1 gram of substance|C|Molar mass is the mass of one mole of substance.
+How many moles are present in 32 g of oxygen (O₂)?|1|2|4|8|A|Moles = mass/molar mass = 32/32 = 1 mole.
+What is the mass of 2 moles of CO₂?|44 g|88 g|22 g|176 g|B|Mass = moles × molar mass = 2 × 44 = 88 g.
+The empirical formula represents:|Exact number of atoms|Simplest ratio of atoms|Actual molecular structure|Number of molecules|B|Empirical formula shows the simplest whole number ratio.
+If molecular mass is 180 and empirical mass is 30, the molecular formula is:|Same as empirical|6 times empirical|Half the empirical|Double the empirical|B|Molecular formula = n × empirical formula, where n = 180/30 = 6.
+In the reaction 2H₂ + O₂ → 2H₂O, the volume ratio is:|1:1:2|2:1:2|1:2:2|2:2:1|B|Volume ratio = mole ratio = 2:1:2.
+Gram atomic mass is the mass of:|1 atom|1 mole of atoms|1 g of atoms|Avogadro's number of grams|B|Gram atomic mass is the mass of 1 mole of atoms.
+At STP, one mole of ideal gas occupies:|11.2 L|22.4 L|44.8 L|5.6 L|B|At STP, 1 mole of ideal gas occupies 22.4 L.
+Solids are characterized by:|Definite volume and shape|Indefinite volume and shape|Definite volume but not shape|Neither definite volume nor shape|A|Solids have definite volume and definite shape.
+Crystalline solids have:|Definite melting point|No definite melting point|Variable melting point|Melting point below 0°C|A|Crystalline solids have sharp, definite melting points.
+Amorphous solids are:|Crystalline|Non-crystalline with no long-range order|With geometric shapes|Isotropic at the microscopic level|B|Amorphous solids lack long-range order.
+In cubic crystal systems, the lattice points are at:|Corner only|Corners and face centers|Corners and body center|Corners, faces, and body center|A|In simple cubic, lattice points are only at the 8 corners.
+The coordination number in a simple cubic crystal is:|4|6|8|12|B|In simple cubic, coordination number = 6.
+In face-centered cubic (FCC) crystal, the number of atoms per unit cell is:|1|2|4|8|C|In FCC: 8 corner atoms (1/8 each) + 6 face atoms (1/2 each) = 4 atoms.
+In body-centered cubic (BCC) crystal, the number of atoms per unit cell is:|1|2|3|4|B|In BCC: 8 corner atoms (1/8 each) + 1 body center atom = 2 atoms.
+The packing efficiency in hexagonal close packing (HCP) is:|68%|74%|52%|64%|B|Both FCC and HCP have packing efficiency of 74%.
+Ionic crystals are composed of:|Atoms|Molecules|Ions|Electrons|C|Ionic crystals consist of cations and anions.
+Metallic crystals have:|High melting points and poor conductivity|High melting points and good conductivity|Low melting points and good conductivity|Variable melting points|B|Metallic crystals have high melting points and excellent conductivity.
+Velocity is a:|Scalar quantity|Vector quantity|Both scalar and vector|Neither scalar nor vector|B|Velocity is a vector quantity as it has magnitude and direction.
+If an object moves with constant velocity, its acceleration is:|Constant and non-zero|Variable|Zero|Increasing|C|Constant velocity means acceleration = 0.
+An object starting from rest with acceleration 2 m/s² will have a velocity of 10 m/s in:|2 s|5 s|10 s|20 s|B|Using v = u + at: 10 = 0 + 2×t → t = 5 s.
+A body moving in a circle has:|Constant velocity|Variable velocity|Zero acceleration|Constant speed with changing velocity|D|Circular motion has constant speed but velocity changes (direction changes).
+The SI unit of acceleration is:|m/s|m²/s|m/s²|m/min²|C|SI unit of acceleration = m/s².
+Displacement-time graph for uniformly accelerated motion is a:|Straight line|Parabola|Circle|Hyperbola|B|For uniform acceleration, s = ut + ½at², which is a parabola.
+If distance = 100 m and time = 10 s, average speed is:|0.1 m/s|1 m/s|10 m/s|100 m/s|C|Average speed = 100/10 = 10 m/s.
+Relative velocity between two objects moving in opposite directions is:|Difference of velocities|Sum of velocities|Product of velocities|Ratio of velocities|B|Moving in opposite directions, relative velocity = v₁ + v₂.
+The equation of motion v² = u² + 2as applies to:|Only uniform motion|Only uniformly accelerated motion|All types of motion|Only non-uniform motion|B|This is a kinematic equation for uniformly accelerated motion.
+For a body thrown vertically upward, at the highest point:|Velocity is maximum|Velocity is zero|Acceleration is zero|Both velocity and acceleration are zero|B|At the highest point, vertical velocity becomes zero.
+Newton's first law of motion states that:|F = ma|Every action has an equal and opposite reaction|A body at rest remains at rest unless acted upon by a force|Momentum is conserved|C|Newton's first law is the law of inertia.
+Newton's second law is expressed as:|F = ma|F = m/a|F = a/m|F = m²a|A|Newton's second law: F = ma.
+SI unit of force is:|Dyne|Newton|Kilogram|Joule|B|SI unit of force is Newton (N).
+If mass = 10 kg and acceleration = 5 m/s², the force is:|2 N|15 N|50 N|200 N|C|F = ma = 10 × 5 = 50 N.
+Newton's third law states:|F = ma|For every action, there's an equal opposite reaction|Momentum is conserved|Energy cannot be created|B|Newton's third law: Action and reaction are equal and opposite.
+Friction is a:|Conservative force|Non-conservative force|Central force|Gravitational force|B|Friction is a non-conservative force.
+Coefficient of static friction is:|Greater than coefficient of kinetic friction|Less than coefficient of kinetic friction|Equal to coefficient of kinetic friction|Always zero|A|Static friction coefficient is typically greater than kinetic friction coefficient.
+When a body is in equilibrium, the net force is:|Maximum|Minimum|Zero|Undefined|C|Equilibrium means no acceleration, so net force = 0.
+Momentum is defined as:|Force|Mass × velocity|Mass × acceleration|Force × time|B|Momentum (p) = mass × velocity = mv.
+The law of conservation of momentum states that:|Total momentum increases|Total momentum decreases|Total momentum remains constant in absence of external force|Momentum is never conserved|C|In an isolated system, total momentum is conserved.
+Elementary charge (e) is equal to:|1.6 × 10⁻¹⁹ C|1.6 × 10⁻²⁷ C|3.2 × 10⁻¹⁹ C|6.4 × 10⁻²⁷ C|A|Elementary charge e = 1.6 × 10⁻¹⁹ coulombs.
+Coulomb's law gives the force between:|Two moving charges|Two stationary charges|A charge and a magnet|Two masses|B|Coulomb's law describes force between two stationary point charges.
+Coulomb's law is F = k(q₁q₂)/r². The constant k is:|9 × 10⁹ N·m²/C²|9 × 10¹² N·m²/C²|9 × 10⁶ N·m²/C²|9 × 10³ N·m²/C²|A|In Coulomb's law, k = 9 × 10⁹ N·m²/C².
+Electric field intensity is defined as:|Force per unit charge|Charge per unit force|Force times charge|Charge times force|A|Electric field E = Force/charge = F/q.
+SI unit of electric field intensity is:|N/C|C/N|N·C|C·N|A|SI unit of electric field = N/C.
+Electric field lines:|Form closed loops|Never intersect|Start from negative charges|Represent paths of charges|B|Electric field lines never intersect.
+Gauss's law relates electric field to:|Charge inside surface|Charge outside surface|Total charge everywhere|Magnetic field|A|Gauss's law: Flux = (charge enclosed)/ε₀.
+The permittivity of free space (ε₀) is:|8.85 × 10⁻¹² F/m|8.85 × 10⁻⁶ F/m|8.85 × 10¹² F/m|8.85 × 10⁶ F/m|A|Permittivity of free space ε₀ = 8.85 × 10⁻¹² F/m.
+Electric potential is defined as:|Work per unit charge|Charge per unit work|Work times charge|Charge times work|A|Electric potential V = Work done / charge = W/q.
+SI unit of electric potential is:|Joule|Coulomb|Volt|Ampere|C|SI unit of electric potential is Volt (V).
