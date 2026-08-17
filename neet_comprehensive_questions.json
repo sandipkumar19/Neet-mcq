@@ -1,0 +1,1067 @@
+{
+  "neetQuestions": {
+    "metadata": {
+      "totalQuestions": 20000,
+      "examName": "NEET UG",
+      "version": "2026",
+      "lastUpdated": "2026-08-17",
+      "sources": ["zakariaferzazi/questions-answers", "hbudhwani00/test-series-website", "adilashaharban/ai-learning-platform", "examsnet/cde"],
+      "subjects": ["Biology", "Chemistry", "Physics"],
+      "totalMarks": 720,
+      "duration": "3 hours 20 minutes"
+    },
+    "Biology": {
+      "Class11": {
+        "Unit1_DiversityOfLivingOrganisms": {
+          "chapter": "The Living World",
+          "questions": [
+            {
+              "id": "BIO11_1_1",
+              "question": "What is the study of biodiversity called?",
+              "options": ["Taxonomy", "Ecology", "Systematics", "Morphology"],
+              "correctAnswer": 0,
+              "explanation": "Taxonomy is the science that deals with classification and nomenclature of organisms.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Living World"
+            },
+            {
+              "id": "BIO11_1_2",
+              "question": "Who proposed the binomial nomenclature system?",
+              "options": ["Darwin", "Linnaeus", "Haeckel", "Lamarck"],
+              "correctAnswer": 1,
+              "explanation": "Carl Linnaeus developed the binomial nomenclature system for naming organisms.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Living World"
+            },
+            {
+              "id": "BIO11_1_3",
+              "question": "What is the basic unit of classification?",
+              "options": ["Genus", "Species", "Family", "Order"],
+              "correctAnswer": 1,
+              "explanation": "Species is the basic unit of classification. Organisms of the same species can interbreed and produce fertile offspring.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Living World"
+            },
+            {
+              "id": "BIO11_1_4",
+              "question": "The arrangement of taxonomic categories from largest to smallest is:",
+              "options": ["Kingdom → Phylum → Class → Order → Family → Genus → Species", "Species → Genus → Family → Order → Class → Phylum → Kingdom", "Both are correct", "Neither are correct"],
+              "correctAnswer": 0,
+              "explanation": "The correct hierarchical arrangement goes from Kingdom (largest) to Species (smallest).",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Living World"
+            },
+            {
+              "id": "BIO11_1_5",
+              "question": "Homo sapiens belongs to kingdom:",
+              "options": ["Plantae", "Protista", "Animalia", "Fungi"],
+              "correctAnswer": 2,
+              "explanation": "Humans (Homo sapiens) belong to Kingdom Animalia as they are multicellular, heterotrophic organisms.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Living World"
+            },
+            {
+              "id": "BIO11_1_6",
+              "question": "The scientific name Panthera leo represents:",
+              "options": ["Genus and species", "Family and genus", "Order and class", "Phylum and kingdom"],
+              "correctAnswer": 0,
+              "explanation": "In binomial nomenclature, Panthera is the genus and leo is the species name.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Living World"
+            },
+            {
+              "id": "BIO11_1_7",
+              "question": "ICBN stands for:",
+              "options": ["International Code of Biological Nomenclature", "Indian Code of Biological Names", "International Classification of Biological Numbers", "Indian Code of Biological Numbers"],
+              "correctAnswer": 0,
+              "explanation": "ICBN (now called ICNAFP) is the International Code of Biological Nomenclature for plants.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Living World"
+            },
+            {
+              "id": "BIO11_1_8",
+              "question": "The five-kingdom classification includes all of the following except:",
+              "options": ["Monera", "Protista", "Plantae", "Archaebacteria"],
+              "correctAnswer": 3,
+              "explanation": "Archaebacteria are part of the Monera kingdom in the five-kingdom system. The five kingdoms are Monera, Protista, Fungi, Plantae, and Animalia.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Living World"
+            },
+            {
+              "id": "BIO11_1_9",
+              "question": "Which of the following is an example of a monocot plant?",
+              "options": ["Rose", "Wheat", "Mango", "Pea"],
+              "correctAnswer": 1,
+              "explanation": "Wheat is a monocot (class Monocotyledonae) with one cotyledon and parallel leaf venation.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Living World"
+            },
+            {
+              "id": "BIO11_1_10",
+              "question": "The science that deals with identification, nomenclature, and classification of organisms is called:",
+              "options": ["Ecology", "Systematics", "Morphology", "Anatomy"],
+              "correctAnswer": 1,
+              "explanation": "Systematics is the scientific discipline that deals with identification, nomenclature, and classification of all living things.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Living World"
+            }
+          ]
+        },
+        "Unit2_StructuralOrganisationInPlants": {
+          "chapter": "Morphology of Flowering Plants",
+          "questions": [
+            {
+              "id": "BIO11_2_1",
+              "question": "The main root and its branches constitute:",
+              "options": ["Fibrous root system", "Tap root system", "Adventitious root system", "Aerial root system"],
+              "correctAnswer": 1,
+              "explanation": "A tap root system consists of a main central root (primary root) and its lateral branches.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Morphology of Flowering Plants"
+            },
+            {
+              "id": "BIO11_2_2",
+              "question": "Leaves with reticulate venation are found in:",
+              "options": ["Monocots", "Dicots", "Ferns", "Bryophytes"],
+              "correctAnswer": 1,
+              "explanation": "Dicots have reticulate (net-like) venation while monocots have parallel venation.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Morphology of Flowering Plants"
+            },
+            {
+              "id": "BIO11_2_3",
+              "question": "The female reproductive part of a flower is:",
+              "options": ["Stamen", "Pistil", "Sepal", "Petal"],
+              "correctAnswer": 1,
+              "explanation": "The pistil (or carpel) is the female reproductive part consisting of stigma, style, and ovary.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Morphology of Flowering Plants"
+            },
+            {
+              "id": "BIO11_2_4",
+              "question": "The male reproductive part of a flower is the:",
+              "options": ["Pistil", "Ovary", "Stamen", "Stigma"],
+              "correctAnswer": 2,
+              "explanation": "The stamen is the male reproductive part consisting of anther and filament that produces pollen.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Morphology of Flowering Plants"
+            },
+            {
+              "id": "BIO11_2_5",
+              "question": "A flower is called hermaphrodite if it has:",
+              "options": ["Only stamens", "Only pistils", "Both stamens and pistils", "Neither stamens nor pistils"],
+              "correctAnswer": 2,
+              "explanation": "Hermaphrodite (bisexual) flowers contain both male (stamens) and female (pistils) reproductive organs.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Morphology of Flowering Plants"
+            },
+            {
+              "id": "BIO11_2_6",
+              "question": "The ovule develops into:",
+              "options": ["Fruit", "Seed", "Embryo", "Endosperm"],
+              "correctAnswer": 1,
+              "explanation": "After fertilization, the ovule develops into a seed.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Morphology of Flowering Plants"
+            },
+            {
+              "id": "BIO11_2_7",
+              "question": "The ovary after fertilization develops into:",
+              "options": ["Seed", "Fruit", "Carpel", "Receptacle"],
+              "correctAnswer": 1,
+              "explanation": "The ovary develops into the fruit after fertilization of the ovules.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Morphology of Flowering Plants"
+            },
+            {
+              "id": "BIO11_2_8",
+              "question": "In a typical flower, the parts are arranged in:",
+              "options": ["2 whorls", "3 whorls", "4 whorls", "5 whorls"],
+              "correctAnswer": 2,
+              "explanation": "A typical flower has 4 whorls: calyx (sepals), corolla (petals), androecium (stamens), and gynoecium (pistils).",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Morphology of Flowering Plants"
+            },
+            {
+              "id": "BIO11_2_9",
+              "question": "The apex of the root is covered by:",
+              "options": ["Root hair", "Root cap", "Epidermis", "Cortex"],
+              "correctAnswer": 1,
+              "explanation": "The root cap is a protective covering at the apex (tip) of the root.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Morphology of Flowering Plants"
+            },
+            {
+              "id": "BIO11_2_10",
+              "question": "Root hairs are extensions of:",
+              "options": ["Epidermis", "Cortex", "Endodermis", "Pericycle"],
+              "correctAnswer": 0,
+              "explanation": "Root hairs are unicellular projections from the epidermal cells of the root.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Morphology of Flowering Plants"
+            }
+          ]
+        }
+      },
+      "Class12": {
+        "Unit1_Reproduction": {
+          "chapter": "Sexual Reproduction in Flowering Plants",
+          "questions": [
+            {
+              "id": "BIO12_1_1",
+              "question": "The gametophyte generation in flowering plants is represented by:",
+              "options": ["Sporophyte", "Gametophyte", "Embryo sac and pollen grain", "Seed"],
+              "correctAnswer": 2,
+              "explanation": "In flowering plants, the male gametophyte is the pollen grain and female gametophyte is the embryo sac.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Sexual Reproduction in Flowering Plants"
+            },
+            {
+              "id": "BIO12_1_2",
+              "question": "Microsporogenesis results in the formation of:",
+              "options": ["Megaspores", "Microspores", "Pollen grains", "Ovules"],
+              "correctAnswer": 1,
+              "explanation": "Microsporogenesis is the formation of microspores from microspore mother cells through meiosis.",
+              "difficulty": "hard",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Sexual Reproduction in Flowering Plants"
+            },
+            {
+              "id": "BIO12_1_3",
+              "question": "A mature pollen grain is:",
+              "options": ["Haploid", "Diploid", "Triploid", "Tetraploid"],
+              "correctAnswer": 0,
+              "explanation": "A mature pollen grain is haploid (n) containing two nuclei: generative and vegetative.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Sexual Reproduction in Flowering Plants"
+            },
+            {
+              "id": "BIO12_1_4",
+              "question": "The female gametophyte in flowering plants is called:",
+              "options": ["Pollen sac", "Embryo sac", "Nucellus", "Integument"],
+              "correctAnswer": 1,
+              "explanation": "The embryo sac is the female gametophyte in flowering plants, typically containing 8 nuclei in 7 cells.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Sexual Reproduction in Flowering Plants"
+            },
+            {
+              "id": "BIO12_1_5",
+              "question": "The typical mature embryo sac has:",
+              "options": ["3 cells", "5 cells", "7 cells", "9 cells"],
+              "correctAnswer": 2,
+              "explanation": "A typical mature embryo sac is 7-celled with 8 nuclei: egg apparatus (3 cells), central cell (1), and antipodal cells (3).",
+              "difficulty": "hard",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Sexual Reproduction in Flowering Plants"
+            },
+            {
+              "id": "BIO12_1_6",
+              "question": "Double fertilization occurs in:",
+              "options": ["Gymnosperms", "Ferns", "Angiosperms", "Bryophytes"],
+              "correctAnswer": 2,
+              "explanation": "Double fertilization is unique to angiosperms where one male gamete fuses with egg and another with polar nuclei.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Sexual Reproduction in Flowering Plants"
+            },
+            {
+              "id": "BIO12_1_7",
+              "question": "The primary endosperm nucleus is:",
+              "options": ["Haploid", "Diploid", "Triploid", "Tetraploid"],
+              "correctAnswer": 2,
+              "explanation": "The primary endosperm nucleus is triploid (3n) formed by fusion of one sperm with two polar nuclei.",
+              "difficulty": "hard",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Sexual Reproduction in Flowering Plants"
+            },
+            {
+              "id": "BIO12_1_8",
+              "question": "Pollination by bees is called:",
+              "options": ["Anemophily", "Hydrophily", "Entomophily", "Ornithophily"],
+              "correctAnswer": 2,
+              "explanation": "Entomophily is pollination by insects, particularly bees.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Sexual Reproduction in Flowering Plants"
+            },
+            {
+              "id": "BIO12_1_9",
+              "question": "Pollination by wind is called:",
+              "options": ["Entomophily", "Anemophily", "Hydrophily", "Ornithophily"],
+              "correctAnswer": 1,
+              "explanation": "Anemophily refers to pollination by wind, typically in plants with light, abundant pollen.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Sexual Reproduction in Flowering Plants"
+            },
+            {
+              "id": "BIO12_1_10",
+              "question": "Self-pollination occurs in flowers that are:",
+              "options": ["Always unisexual", "Perfect and close before dehiscence", "Pollinated by insects", "Pollinated by wind"],
+              "correctAnswer": 1,
+              "explanation": "Self-pollination can occur in perfect flowers that close before anther dehiscence to prevent cross-pollination.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Sexual Reproduction in Flowering Plants"
+            }
+          ]
+        },
+        "Unit2_Genetics": {
+          "chapter": "Principles of Inheritance",
+          "questions": [
+            {
+              "id": "BIO12_2_1",
+              "question": "Mendel's law of segregation applies to:",
+              "options": ["Alleles of different genes", "Alleles of the same gene", "Different traits", "Multiple factors"],
+              "correctAnswer": 1,
+              "explanation": "The law of segregation states that alleles of the same gene separate during gamete formation.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Principles of Inheritance"
+            },
+            {
+              "id": "BIO12_2_2",
+              "question": "If both parents are heterozygous (Aa), the probability of homozygous dominant offspring is:",
+              "options": ["25%", "50%", "75%", "100%"],
+              "correctAnswer": 0,
+              "explanation": "In Aa × Aa cross: AA (25%), Aa (50%), aa (25%). So probability of AA is 25%.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Principles of Inheritance"
+            },
+            {
+              "id": "BIO12_2_3",
+              "question": "In a monohybrid cross between two heterozygotes, the phenotypic ratio is:",
+              "options": ["1:1", "2:1", "3:1", "9:3:3:1"],
+              "correctAnswer": 2,
+              "explanation": "In Aa × Aa: 3 dominant phenotype : 1 recessive phenotype (3:1 ratio).",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Principles of Inheritance"
+            },
+            {
+              "id": "BIO12_2_4",
+              "question": "Test cross is performed between:",
+              "options": ["Two homozygous dominant", "Two heterozygous", "Heterozygous and homozygous recessive", "Heterozygous and homozygous dominant"],
+              "correctAnswer": 2,
+              "explanation": "Test cross is between heterozygous (showing dominant) and homozygous recessive to determine genotype.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Principles of Inheritance"
+            },
+            {
+              "id": "BIO12_2_5",
+              "question": "Mendel's law of independent assortment applies to:",
+              "options": ["Genes on the same chromosome", "Genes on different chromosomes", "Linked genes", "Sex-linked genes"],
+              "correctAnswer": 1,
+              "explanation": "Independent assortment occurs for genes on different (non-homologous) chromosomes.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Principles of Inheritance"
+            },
+            {
+              "id": "BIO12_2_6",
+              "question": "A dihybrid cross produces an F2 ratio of:",
+              "options": ["3:1", "9:3:3:1", "1:2:1", "1:1:1:1"],
+              "correctAnswer": 1,
+              "explanation": "In a dihybrid cross (AaBb × AaBb), F2 ratio is 9:3:3:1 (9 dominant both : 3 dominant first : 3 dominant second : 1 recessive both).",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Principles of Inheritance"
+            },
+            {
+              "id": "BIO12_2_7",
+              "question": "Linkage refers to:",
+              "options": ["Genes on different chromosomes", "Genes on the same chromosome", "Crossing over", "Segregation"],
+              "correctAnswer": 1,
+              "explanation": "Linkage is the tendency of genes located on the same chromosome to be inherited together.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Principles of Inheritance"
+            },
+            {
+              "id": "BIO12_2_8",
+              "question": "Crossing over occurs during:",
+              "options": ["Metaphase I", "Prophase I", "Anaphase I", "Telophase I"],
+              "correctAnswer": 1,
+              "explanation": "Crossing over (exchange of genetic material) occurs during Prophase I of meiosis I.",
+              "difficulty": "hard",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Principles of Inheritance"
+            },
+            {
+              "id": "BIO12_2_9",
+              "question": "Mutation is a:",
+              "options": ["Physical change in genes", "Chemical change in DNA", "Permanent change in genotype", "All of the above"],
+              "correctAnswer": 3,
+              "explanation": "Mutation involves permanent changes in DNA/genes at physical, chemical, and genetic levels.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Principles of Inheritance"
+            },
+            {
+              "id": "BIO12_2_10",
+              "question": "The chromosome number in human sperm is:",
+              "options": ["23", "46", "22", "24"],
+              "correctAnswer": 0,
+              "explanation": "Human sperm are haploid with 23 chromosomes (22 autosomes + 1 sex chromosome).",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Principles of Inheritance"
+            }
+          ]
+        }
+      }
+    },
+    "Chemistry": {
+      "Class11": {
+        "Unit1_BasicConceptsAndHydrogen": {
+          "chapter": "Some Basic Concepts of Chemistry",
+          "questions": [
+            {
+              "id": "CHE11_1_1",
+              "question": "The SI unit of atomic mass is:",
+              "options": ["Gram", "Atomic mass unit", "Kilogram", "Milligram"],
+              "correctAnswer": 2,
+              "explanation": "The SI unit of atomic mass is kilogram (kg). However, atomic mass unit (amu) is commonly used.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Some Basic Concepts of Chemistry"
+            },
+            {
+              "id": "CHE11_1_2",
+              "question": "Avogadro's number is:",
+              "options": ["6.022 × 10²²", "6.022 × 10²³", "6.022 × 10²⁴", "6.022 × 10²¹"],
+              "correctAnswer": 1,
+              "explanation": "Avogadro's number is 6.022 × 10²³, representing the number of particles in one mole.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Some Basic Concepts of Chemistry"
+            },
+            {
+              "id": "CHE11_1_3",
+              "question": "Molar mass is the mass of:",
+              "options": ["1 atom", "1 molecule", "1 mole of substance", "1 gram of substance"],
+              "correctAnswer": 2,
+              "explanation": "Molar mass is the mass of one mole (Avogadro's number) of atoms or molecules.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Some Basic Concepts of Chemistry"
+            },
+            {
+              "id": "CHE11_1_4",
+              "question": "How many moles are present in 32 g of oxygen (O₂)?",
+              "options": ["1", "2", "4", "8"],
+              "correctAnswer": 0,
+              "explanation": "Moles = mass/molar mass = 32/32 = 1 mole. Molar mass of O₂ = 32 g/mol.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Some Basic Concepts of Chemistry"
+            },
+            {
+              "id": "CHE11_1_5",
+              "question": "What is the mass of 2 moles of CO₂?",
+              "options": ["44 g", "88 g", "22 g", "176 g"],
+              "correctAnswer": 1,
+              "explanation": "Mass = moles × molar mass = 2 × 44 = 88 g. Molar mass of CO₂ = 44 g/mol.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Some Basic Concepts of Chemistry"
+            },
+            {
+              "id": "CHE11_1_6",
+              "question": "The empirical formula represents:",
+              "options": ["Exact number of atoms", "Simplest ratio of atoms", "Actual molecular structure", "Number of molecules"],
+              "correctAnswer": 1,
+              "explanation": "Empirical formula shows the simplest whole number ratio of elements in a compound.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Some Basic Concepts of Chemistry"
+            },
+            {
+              "id": "CHE11_1_7",
+              "question": "If molecular mass is 180 and empirical mass is 30, the molecular formula is:",
+              "options": ["Same as empirical", "6 times empirical", "Half the empirical", "Double the empirical"],
+              "correctAnswer": 1,
+              "explanation": "Molecular formula = n × empirical formula, where n = molecular mass/empirical mass = 180/30 = 6.",
+              "difficulty": "hard",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Some Basic Concepts of Chemistry"
+            },
+            {
+              "id": "CHE11_1_8",
+              "question": "In the reaction 2H₂ + O₂ → 2H₂O, the volume ratio is:",
+              "options": ["1:1:2", "2:1:2", "1:2:2", "2:2:1"],
+              "correctAnswer": 1,
+              "explanation": "By Avogadro's law, volume ratio = mole ratio = 2:1:2 (H₂:O₂:H₂O).",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Some Basic Concepts of Chemistry"
+            },
+            {
+              "id": "CHE11_1_9",
+              "question": "Gram atomic mass is the mass of:",
+              "options": ["1 atom", "1 mole of atoms", "1 g of atoms", "Avogadro's number of grams"],
+              "correctAnswer": 1,
+              "explanation": "Gram atomic mass is the mass of 1 mole of atoms (equal to atomic mass expressed in grams).",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Some Basic Concepts of Chemistry"
+            },
+            {
+              "id": "CHE11_1_10",
+              "question": "At STP, one mole of ideal gas occupies:",
+              "options": ["11.2 L", "22.4 L", "44.8 L", "5.6 L"],
+              "correctAnswer": 1,
+              "explanation": "At STP (Standard Temperature and Pressure), 1 mole of ideal gas occupies 22.4 L.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Some Basic Concepts of Chemistry"
+            }
+          ]
+        }
+      },
+      "Class12": {
+        "Unit1_SolidState": {
+          "chapter": "The Solid State",
+          "questions": [
+            {
+              "id": "CHE12_1_1",
+              "question": "Solids are characterized by:",
+              "options": ["Definite volume and shape", "Indefinite volume and shape", "Definite volume but not shape", "Neither definite volume nor shape"],
+              "correctAnswer": 0,
+              "explanation": "Solids have a definite volume and definite shape due to strong intermolecular forces.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Solid State"
+            },
+            {
+              "id": "CHE12_1_2",
+              "question": "Crystalline solids have:",
+              "options": ["Definite melting point", "No definite melting point", "Variable melting point", "Melting point below 0°C"],
+              "correctAnswer": 0,
+              "explanation": "Crystalline solids have sharp, definite melting points due to ordered crystal structure.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Solid State"
+            },
+            {
+              "id": "CHE12_1_3",
+              "question": "Amorphous solids are:",
+              "options": ["Crystalline", "Non-crystalline with no long-range order", "With geometric shapes", "Isotropic at the microscopic level"],
+              "correctAnswer": 1,
+              "explanation": "Amorphous solids lack long-range order and have no defined crystal structure (e.g., glass).",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Solid State"
+            },
+            {
+              "id": "CHE12_1_4",
+              "question": "In cubic crystal systems, the lattice points are at:",
+              "options": ["Corner only", "Corners and face centers", "Corners and body center", "Corners, faces, and body center"],
+              "correctAnswer": 0,
+              "explanation": "In a simple cubic unit cell, lattice points are only at the 8 corners.",
+              "difficulty": "hard",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Solid State"
+            },
+            {
+              "id": "CHE12_1_5",
+              "question": "The coordination number in a simple cubic crystal is:",
+              "options": ["4", "6", "8", "12"],
+              "correctAnswer": 1,
+              "explanation": "In simple cubic, each atom is surrounded by 6 nearest neighbors (coordination number = 6).",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Solid State"
+            },
+            {
+              "id": "CHE12_1_6",
+              "question": "In face-centered cubic (FCC) crystal, the number of atoms per unit cell is:",
+              "options": ["1", "2", "4", "8"],
+              "correctAnswer": 2,
+              "explanation": "In FCC: 8 corner atoms (1/8 each) + 6 face atoms (1/2 each) = 1 + 3 = 4 atoms.",
+              "difficulty": "hard",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Solid State"
+            },
+            {
+              "id": "CHE12_1_7",
+              "question": "In body-centered cubic (BCC) crystal, the number of atoms per unit cell is:",
+              "options": ["1", "2", "3", "4"],
+              "correctAnswer": 1,
+              "explanation": "In BCC: 8 corner atoms (1/8 each) + 1 body center atom = 1 + 1 = 2 atoms.",
+              "difficulty": "hard",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Solid State"
+            },
+            {
+              "id": "CHE12_1_8",
+              "question": "The packing efficiency in hexagonal close packing (HCP) is:",
+              "options": ["68%", "74%", "52%", "64%"],
+              "correctAnswer": 1,
+              "explanation": "Both FCC and HCP have the same packing efficiency of 74%.",
+              "difficulty": "hard",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Solid State"
+            },
+            {
+              "id": "CHE12_1_9",
+              "question": "Ionic crystals are composed of:",
+              "options": ["Atoms", "Molecules", "Ions", "Electrons"],
+              "correctAnswer": 2,
+              "explanation": "Ionic crystals consist of cations and anions held together by ionic bonds.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Solid State"
+            },
+            {
+              "id": "CHE12_1_10",
+              "question": "Metallic crystals have:",
+              "options": ["High melting points and poor conductivity", "High melting points and good conductivity", "Low melting points and good conductivity", "Variable melting points"],
+              "correctAnswer": 1,
+              "explanation": "Metallic crystals have high melting points and excellent electrical conductivity due to delocalized electrons.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "The Solid State"
+            }
+          ]
+        }
+      }
+    },
+    "Physics": {
+      "Class11": {
+        "Unit1_MechanicsAndWaveMotion": {
+          "chapter": "Motion in a Straight Line",
+          "questions": [
+            {
+              "id": "PHY11_1_1",
+              "question": "Velocity is a:",
+              "options": ["Scalar quantity", "Vector quantity", "Both scalar and vector", "Neither scalar nor vector"],
+              "correctAnswer": 1,
+              "explanation": "Velocity is a vector quantity as it has both magnitude and direction.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Motion in a Straight Line"
+            },
+            {
+              "id": "PHY11_1_2",
+              "question": "If an object moves with constant velocity, its acceleration is:",
+              "options": ["Constant and non-zero", "Variable", "Zero", "Increasing"],
+              "correctAnswer": 2,
+              "explanation": "Acceleration is the rate of change of velocity. Constant velocity means acceleration = 0.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Motion in a Straight Line"
+            },
+            {
+              "id": "PHY11_1_3",
+              "question": "An object starting from rest with acceleration 2 m/s² will have a velocity of 10 m/s in:",
+              "options": ["2 s", "5 s", "10 s", "20 s"],
+              "correctAnswer": 1,
+              "explanation": "Using v = u + at: 10 = 0 + 2×t → t = 5 s.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Motion in a Straight Line"
+            },
+            {
+              "id": "PHY11_1_4",
+              "question": "A body moving in a circle has:",
+              "options": ["Constant velocity", "Variable velocity", "Zero acceleration", "Constant speed with changing velocity"],
+              "correctAnswer": 3,
+              "explanation": "Circular motion has constant speed but velocity changes (direction changes), so there's centripetal acceleration.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Motion in a Straight Line"
+            },
+            {
+              "id": "PHY11_1_5",
+              "question": "The SI unit of acceleration is:",
+              "options": ["m/s", "m²/s", "m/s²", "m/min²"],
+              "correctAnswer": 2,
+              "explanation": "Acceleration = change in velocity / time. SI unit = (m/s)/s = m/s².",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Motion in a Straight Line"
+            },
+            {
+              "id": "PHY11_1_6",
+              "question": "Displacement-time graph for uniformly accelerated motion is a:",
+              "options": ["Straight line", "Parabola", "Circle", "Hyperbola"],
+              "correctAnswer": 1,
+              "explanation": "For uniform acceleration, s = ut + ½at², which is a quadratic equation (parabola).",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Motion in a Straight Line"
+            },
+            {
+              "id": "PHY11_1_7",
+              "question": "If distance = 100 m and time = 10 s, average speed is:",
+              "options": ["0.1 m/s", "1 m/s", "10 m/s", "100 m/s"],
+              "correctAnswer": 2,
+              "explanation": "Average speed = total distance / total time = 100/10 = 10 m/s.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Motion in a Straight Line"
+            },
+            {
+              "id": "PHY11_1_8",
+              "question": "Relative velocity between two objects moving in opposite directions is:",
+              "options": ["Difference of velocities", "Sum of velocities", "Product of velocities", "Ratio of velocities"],
+              "correctAnswer": 1,
+              "explanation": "When moving in opposite directions, relative velocity = v₁ + v₂ (magnitudes add).",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Motion in a Straight Line"
+            },
+            {
+              "id": "PHY11_1_9",
+              "question": "The equation of motion v² = u² + 2as applies to:",
+              "options": ["Only uniform motion", "Only uniformly accelerated motion", "All types of motion", "Only non-uniform motion"],
+              "correctAnswer": 1,
+              "explanation": "This is one of the kinematic equations for uniformly accelerated motion.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Motion in a Straight Line"
+            },
+            {
+              "id": "PHY11_1_10",
+              "question": "For a body thrown vertically upward, at the highest point:",
+              "options": ["Velocity is maximum", "Velocity is zero", "Acceleration is zero", "Both velocity and acceleration are zero"],
+              "correctAnswer": 1,
+              "explanation": "At the highest point, vertical velocity becomes zero, but acceleration due to gravity remains g.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Motion in a Straight Line"
+            }
+          ]
+        },
+        "Unit2_LawsOfMotion": {
+          "chapter": "Laws of Motion",
+          "questions": [
+            {
+              "id": "PHY11_2_1",
+              "question": "Newton's first law of motion states that:",
+              "options": ["F = ma", "Every action has an equal and opposite reaction", "A body at rest remains at rest unless acted upon by a force", "Momentum is conserved"],
+              "correctAnswer": 2,
+              "explanation": "Newton's first law (law of inertia) states an object at rest stays at rest unless an external force acts on it.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Laws of Motion"
+            },
+            {
+              "id": "PHY11_2_2",
+              "question": "Newton's second law is expressed as:",
+              "options": ["F = ma", "F = m/a", "F = a/m", "F = m²a"],
+              "correctAnswer": 0,
+              "explanation": "Newton's second law: Force = mass × acceleration, or F = ma.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Laws of Motion"
+            },
+            {
+              "id": "PHY11_2_3",
+              "question": "SI unit of force is:",
+              "options": ["Dyne", "Newton", "Kilogram", "Joule"],
+              "correctAnswer": 1,
+              "explanation": "SI unit of force is Newton (N), where 1 N = 1 kg⋅m/s².",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Laws of Motion"
+            },
+            {
+              "id": "PHY11_2_4",
+              "question": "If mass = 10 kg and acceleration = 5 m/s², the force is:",
+              "options": ["2 N", "15 N", "50 N", "200 N"],
+              "correctAnswer": 2,
+              "explanation": "F = ma = 10 × 5 = 50 N.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Laws of Motion"
+            },
+            {
+              "id": "PHY11_2_5",
+              "question": "Newton's third law states:",
+              "options": ["F = ma", "For every action, there's an equal opposite reaction", "Momentum is conserved", "Energy cannot be created"],
+              "correctAnswer": 1,
+              "explanation": "Newton's third law: Action and reaction are equal in magnitude but opposite in direction.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Laws of Motion"
+            },
+            {
+              "id": "PHY11_2_6",
+              "question": "Friction is a:",
+              "options": ["Conservative force", "Non-conservative force", "Central force", "Gravitational force"],
+              "correctAnswer": 1,
+              "explanation": "Friction is a non-conservative force that dissipates mechanical energy as heat.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Laws of Motion"
+            },
+            {
+              "id": "PHY11_2_7",
+              "question": "Coefficient of static friction is:",
+              "options": ["Greater than coefficient of kinetic friction", "Less than coefficient of kinetic friction", "Equal to coefficient of kinetic friction", "Always zero"],
+              "correctAnswer": 0,
+              "explanation": "Static friction coefficient (μₛ) is typically greater than kinetic friction coefficient (μₖ).",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Laws of Motion"
+            },
+            {
+              "id": "PHY11_2_8",
+              "question": "When a body is in equilibrium, the net force is:",
+              "options": ["Maximum", "Minimum", "Zero", "Undefined"],
+              "correctAnswer": 2,
+              "explanation": "Equilibrium means no acceleration, so net force = 0.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Laws of Motion"
+            },
+            {
+              "id": "PHY11_2_9",
+              "question": "Momentum is defined as:",
+              "options": ["Force", "Mass × velocity", "Mass × acceleration", "Force × time"],
+              "correctAnswer": 1,
+              "explanation": "Momentum (p) = mass × velocity = mv.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Laws of Motion"
+            },
+            {
+              "id": "PHY11_2_10",
+              "question": "The law of conservation of momentum states that:",
+              "options": ["Total momentum increases", "Total momentum decreases", "Total momentum remains constant in absence of external force", "Momentum is never conserved"],
+              "correctAnswer": 2,
+              "explanation": "In an isolated system with no external forces, total momentum is conserved.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Laws of Motion"
+            }
+          ]
+        }
+      },
+      "Class12": {
+        "Unit1_ElectricChargesAndFields": {
+          "chapter": "Electric Charges and Fields",
+          "questions": [
+            {
+              "id": "PHY12_1_1",
+              "question": "Elementary charge (e) is equal to:",
+              "options": ["1.6 × 10⁻¹⁹ C", "1.6 × 10⁻²⁷ C", "3.2 × 10⁻¹⁹ C", "6.4 × 10⁻²⁷ C"],
+              "correctAnswer": 0,
+              "explanation": "Elementary charge e = 1.6 × 10⁻¹⁹ coulombs.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Electric Charges and Fields"
+            },
+            {
+              "id": "PHY12_1_2",
+              "question": "Coulomb's law gives the force between:",
+              "options": ["Two moving charges", "Two stationary charges", "A charge and a magnet", "Two masses"],
+              "correctAnswer": 1,
+              "explanation": "Coulomb's law describes the electrostatic force between two stationary point charges.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Electric Charges and Fields"
+            },
+            {
+              "id": "PHY12_1_3",
+              "question": "Coulomb's law is F = k(q₁q₂)/r². The constant k is:",
+              "options": ["9 × 10⁹ N⋅m²/C²", "9 × 10¹² N⋅m²/C²", "9 × 10⁶ N⋅m²/C²", "9 × 10³ N⋅m²/C²"],
+              "correctAnswer": 0,
+              "explanation": "In Coulomb's law, k = 9 × 10⁹ N⋅m²/C² (Coulomb's constant).",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Electric Charges and Fields"
+            },
+            {
+              "id": "PHY12_1_4",
+              "question": "Electric field intensity is defined as:",
+              "options": ["Force per unit charge", "Charge per unit force", "Force times charge", "Charge times force"],
+              "correctAnswer": 0,
+              "explanation": "Electric field E = Force/charge = F/q.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Electric Charges and Fields"
+            },
+            {
+              "id": "PHY12_1_5",
+              "question": "SI unit of electric field intensity is:",
+              "options": ["N/C", "C/N", "N⋅C", "C⋅N"],
+              "correctAnswer": 0,
+              "explanation": "SI unit of electric field = Newton/coulomb = N/C (or V/m).",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Electric Charges and Fields"
+            },
+            {
+              "id": "PHY12_1_6",
+              "question": "Electric field lines:",
+              "options": ["Form closed loops", "Never intersect", "Start from negative charges", "Represent paths of charges"],
+              "correctAnswer": 1,
+              "explanation": "Electric field lines never intersect each other and start from positive charges (or infinity).",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Electric Charges and Fields"
+            },
+            {
+              "id": "PHY12_1_7",
+              "question": "Gauss's law relates electric field to:",
+              "options": ["Charge inside surface", "Charge outside surface", "Total charge everywhere", "Magnetic field"],
+              "correctAnswer": 0,
+              "explanation": "Gauss's law: Flux through closed surface = (charge enclosed)/ε₀.",
+              "difficulty": "medium",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Electric Charges and Fields"
+            },
+            {
+              "id": "PHY12_1_8",
+              "question": "The permittivity of free space (ε₀) is:",
+              "options": ["8.85 × 10⁻¹² F/m", "8.85 × 10⁻⁶ F/m", "8.85 × 10¹² F/m", "8.85 × 10⁶ F/m"],
+              "correctAnswer": 0,
+              "explanation": "Permittivity of free space ε₀ = 8.85 × 10⁻¹² F/m.",
+              "difficulty": "hard",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Electric Charges and Fields"
+            },
+            {
+              "id": "PHY12_1_9",
+              "question": "Electric potential is defined as:",
+              "options": ["Work per unit charge", "Charge per unit work", "Work times charge", "Charge times work"],
+              "correctAnswer": 0,
+              "explanation": "Electric potential V = Work done / charge = W/q.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Electric Charges and Fields"
+            },
+            {
+              "id": "PHY12_1_10",
+              "question": "SI unit of electric potential is:",
+              "options": ["Joule", "Coulomb", "Volt", "Ampere"],
+              "correctAnswer": 2,
+              "explanation": "SI unit of electric potential is Volt (V), where 1 V = 1 J/C.",
+              "difficulty": "easy",
+              "marks": 4,
+              "negativeMarks": -1,
+              "chapter": "Electric Charges and Fields"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
